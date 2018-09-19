@@ -2,3 +2,4 @@ a new text file.
 first change.
 a second change. hc, commit
 -------
+****
